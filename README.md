@@ -69,12 +69,7 @@ book_review_platform/
    ```bash
    npm install
    ```
-3. Create a `.env` file with the following variables:
-   ```
-   PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/book_review_platform
-   JWT_SECRET=your_jwt_secret
-   ```
+
 4. Start the server:
    ```bash
    npm run dev
@@ -89,10 +84,7 @@ book_review_platform/
    ```bash
    npm install
    ```
-3. Create a `.env` file with the following variables:
-   ```
-   REACT_APP_API_URL=http://localhost:5000/api
-   ```
+
 4. Start the development server:
    ```bash
    npm start
